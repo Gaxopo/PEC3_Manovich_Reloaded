@@ -18,7 +18,7 @@ En este ensayo voy a explicar, desde su perspectiva, dos casos de hibridación q
 **Web oficial**: https://www.amazon.es/b?node=27982053031
 
 ![enter image description here](https://i.imgur.com/39LQi0i.jpeg)
-*Stand de alexa én un establecimiento*
+*Stand de alexa en un establecimiento*
 
 *Alexa* es un asistente de voz, un dispositivo capaz de realizar funciones únicamente mediante la voz. Entre la infinidad de tareas que puede ejecutar se encuentran: poner música, dar información meteorológica, programar alarmas o controlar dispositivos del hogar (domótica). Como se puede ver, es un sistema complejo que engloba muchas funciones dentro de una misma interfaz.
 
