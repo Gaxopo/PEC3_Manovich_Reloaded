@@ -39,6 +39,7 @@ En conclusión, *Alexa* pertenece al grupo de los asistentes de voz, un grupo qu
 **Web oficial**: https://worldofwarcraft.blizzard.com/es-es/
 
 ![enter image description here](https://i.imgur.com/s8s2Kcs.jpeg)
+
 *Juego de cartas de mesa de World of Warcraft, fotografiado en la Games Convention 2008.*
 y
 *World of Warcraft* es un videojuego creado en 2004 dentro de la categoría de los MMORPG (por sus siglas en inglés: juego de rol multijugador masivo en línea). En este videojuego encarnas a un personaje dentro de un mundo fantástico ficticio, en el cual debes realizar misiones junto a otros jugadores para poder avanzar. Llegó a tener más de 12 millones de jugadores, batiendo récords en su categoría. Parte de su éxito se debe a la fusión de elementos de videojuegos, cine, narrativa fantástica, metaverso y red social.
