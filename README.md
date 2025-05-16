@@ -18,7 +18,7 @@ En este ensayo voy a explicar, desde su perspectiva, dos casos de hibridación q
 **Web oficial**: https://www.amazon.es/b?node=27982053031
 
 ![enter image description here](https://i.imgur.com/39LQi0i.jpeg)
-*Stand de alexa en un establecimiento*
+<br>*Stand de alexa en un establecimiento*
 
 *Alexa* es un asistente de voz, un dispositivo capaz de realizar funciones únicamente mediante la voz. Entre la infinidad de tareas que puede ejecutar se encuentran: poner música, dar información meteorológica, programar alarmas o controlar dispositivos del hogar (domótica). Como se puede ver, es un sistema complejo que engloba muchas funciones dentro de una misma interfaz.
 
@@ -39,9 +39,8 @@ En conclusión, *Alexa* pertenece al grupo de los asistentes de voz, un grupo qu
 **Web oficial**: https://worldofwarcraft.blizzard.com/es-es/
 
 ![enter image description here](https://i.imgur.com/s8s2Kcs.jpeg)
+<br>*Juego de cartas de mesa de World of Warcraft, fotografiado en la Games Convention 2008.*
 
-*Juego de cartas de mesa de World of Warcraft, fotografiado en la Games Convention 2008.*
-y
 *World of Warcraft* es un videojuego creado en 2004 dentro de la categoría de los MMORPG (por sus siglas en inglés: juego de rol multijugador masivo en línea). En este videojuego encarnas a un personaje dentro de un mundo fantástico ficticio, en el cual debes realizar misiones junto a otros jugadores para poder avanzar. Llegó a tener más de 12 millones de jugadores, batiendo récords en su categoría. Parte de su éxito se debe a la fusión de elementos de videojuegos, cine, narrativa fantástica, metaverso y red social.
 
 Analizándolo desde el punto de vista de Manovich, podemos ver varios casos de hibridación dentro del juego. En este mundo de ficción, los jugadores no solo completan misiones o compiten en batallas; también se organizan, hablan por chat, forman clanes, crean comunidades y comparten sus experiencias. Esto convierte a *World of Warcraft* en un claro ejemplo de hibridación, ya que no estamos accediendo únicamente a un videojuego, sino también a una red social interactiva que cambia por completo la experiencia del usuario.
@@ -49,7 +48,7 @@ Analizándolo desde el punto de vista de Manovich, podemos ver varios casos de h
 Al igual que ocurre en una red social, este videojuego ha generado momentos clave dentro de la cultura digital, como el caso de *Leeroy Jenkins*: un jugador que se convirtió en “meme” tras subir un clip a YouTube donde grita su nombre antes de lanzarse al combate y morir. El vídeo acumula hoy más de 26 millones de reproducciones y es un ejemplo de cómo el contenido del juego trasciende el entorno virtual y se transforma en comunicación cultural, como sucede en plataformas como Reddit, TikTok o X. Como homenaje, la compañía ha creado una carta con su nombre en otro videojuego (Hearthstone)
 
 ![enter image description here](https://i.imgur.com/zjtXOIp.jpeg)
-*Demostración de World of Warcraft durante el evento BlizzCon 2013.*
+<br>*Demostración de World of Warcraft durante el evento BlizzCon 2013.*
 
 [Enlace al meme *Leeroy Jenkins*](https://www.youtube.com/watch?v=mLyOj_QD4a4)
 
